@@ -1,0 +1,43 @@
+.one{
+    position: fixed;
+    transform:translate(-50%,-50%);
+    top:40%;
+    left:50%;
+    width:80px;
+    height:80px;
+}
+.two{
+    position: fixed;
+    transform:translate(-50%,-50%);
+    top:80%;
+    left:50%;
+    width:80px;
+    height:80px;
+}
+.centre{
+    position: fixed;
+    transform:translate(-50%,-50%);
+    top:60%;
+    left:65%;
+    width:80px;
+    height:80px;
+}
+.four{
+    position: fixed;
+    transform:translate(-50%,-50%);
+    top:80%;
+    left:80%;
+    width:80px;
+    height:80px;
+}
+.three{
+    position: fixed;
+    transform:translate(-50%,-50%);
+    top:40%;
+    left:80%;
+    width:80px;
+    height:80px;
+}
+
+
+
